@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResetPassword should render layout 1`] = `
+<ForwardRef(styled.div)>
+  <ForwardRef(styled.div)>
+    foo
+  </ForwardRef(styled.div)>
+  <ForwardRef(styled.div)>
+    <span>
+      bar
+    </span>
+  </ForwardRef(styled.div)>
+</ForwardRef(styled.div)>
+`;

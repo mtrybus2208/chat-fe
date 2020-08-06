@@ -1,0 +1,4197 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Preloader should render layout 1`] = `
+<ForwardRef(styled.div)>
+  <ForwardRef(styled.div)>
+    <ForwardRef(styled.div)>
+      <Lottie
+        ariaLabel="animation"
+        ariaRole="button"
+        eventListeners={Array []}
+        height={170}
+        isClickToPauseDisabled={false}
+        isPaused={false}
+        isStopped={false}
+        options={
+          Object {
+            "animationData": Object {
+              "assets": Array [
+                Object {
+                  "id": "comp_0",
+                  "layers": Array [
+                    Object {
+                      "ao": 0,
+                      "bm": 0,
+                      "ddd": 0,
+                      "ind": 1,
+                      "ip": 0,
+                      "ks": Object {
+                        "a": Object {
+                          "a": 0,
+                          "k": Array [
+                            68,
+                            106.25,
+                            0,
+                          ],
+                        },
+                        "o": Object {
+                          "a": 0,
+                          "k": 100,
+                        },
+                        "p": Object {
+                          "a": 0,
+                          "k": Array [
+                            23.09,
+                            117.25,
+                            0,
+                          ],
+                        },
+                        "r": Object {
+                          "a": 1,
+                          "k": Array [
+                            Object {
+                              "e": Array [
+                                19,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  1,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 0,
+                            },
+                            Object {
+                              "e": Array [
+                                19,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                19,
+                              ],
+                              "t": 30,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  1,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                19,
+                              ],
+                              "t": 58,
+                            },
+                            Object {
+                              "t": 90,
+                            },
+                          ],
+                        },
+                        "s": Object {
+                          "a": 0,
+                          "k": Array [
+                            100,
+                            100,
+                            100,
+                          ],
+                        },
+                      },
+                      "nm": "labios contornos",
+                      "op": 150,
+                      "parent": 4,
+                      "shapes": Array [
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      20.34,
+                                      46.967,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -44.5,
+                                      -21.5,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      10,
+                                      8,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      4.555,
+                                      -3.893,
+                                    ],
+                                    Array [
+                                      -10.024,
+                                      -8.019,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      -22.25,
+                                      -58.5,
+                                    ],
+                                    Array [
+                                      -39.75,
+                                      -49.5,
+                                    ],
+                                    Array [
+                                      23.25,
+                                      58.5,
+                                    ],
+                                    Array [
+                                      33.25,
+                                      51,
+                                    ],
+                                    Array [
+                                      29.75,
+                                      28.5,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.438999998803,
+                                  0.365000017952,
+                                  0.788000009574,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  40,
+                                  58.75,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 1",
+                          "ty": "gr",
+                        },
+                      ],
+                      "sr": 1,
+                      "st": 0,
+                      "ty": 4,
+                    },
+                    Object {
+                      "ao": 0,
+                      "bm": 0,
+                      "ddd": 0,
+                      "ind": 2,
+                      "ip": 0,
+                      "ks": Object {
+                        "a": Object {
+                          "a": 0,
+                          "k": Array [
+                            13.75,
+                            2.25,
+                            0,
+                          ],
+                        },
+                        "o": Object {
+                          "a": 0,
+                          "k": 100,
+                        },
+                        "p": Object {
+                          "a": 0,
+                          "k": Array [
+                            73.84,
+                            142.25,
+                            0,
+                          ],
+                        },
+                        "r": Object {
+                          "a": 1,
+                          "k": Array [
+                            Object {
+                              "e": Array [
+                                -16.098,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 0,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -16.098,
+                              ],
+                              "t": 31,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 75.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 81.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 87.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 93.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 98.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 104.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 110.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 116.279,
+                            },
+                            Object {
+                              "t": 120,
+                            },
+                          ],
+                        },
+                        "s": Object {
+                          "a": 0,
+                          "k": Array [
+                            100,
+                            100,
+                            100,
+                          ],
+                        },
+                      },
+                      "nm": "barbatana 1 contornos",
+                      "op": 150,
+                      "parent": 4,
+                      "shapes": Array [
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -22,
+                                      -63,
+                                    ],
+                                    Array [
+                                      -32,
+                                      8,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      6,
+                                      -39,
+                                    ],
+                                    Array [
+                                      -18,
+                                      -54,
+                                    ],
+                                    Array [
+                                      -9,
+                                      54,
+                                    ],
+                                    Array [
+                                      31,
+                                      22,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.764999988032,
+                                  0.470999983245,
+                                  0.795999983245,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  31.25,
+                                  54.25,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 1",
+                          "ty": "gr",
+                        },
+                      ],
+                      "sr": 1,
+                      "st": 0,
+                      "ty": 4,
+                    },
+                    Object {
+                      "ao": 0,
+                      "bm": 0,
+                      "ddd": 0,
+                      "ind": 3,
+                      "ip": 0,
+                      "ks": Object {
+                        "a": Object {
+                          "a": 0,
+                          "k": Array [
+                            10.333,
+                            12,
+                            0,
+                          ],
+                        },
+                        "o": Object {
+                          "a": 0,
+                          "k": 100,
+                        },
+                        "p": Object {
+                          "a": 0,
+                          "k": Array [
+                            144.757,
+                            117.5,
+                            0,
+                          ],
+                        },
+                        "r": Object {
+                          "a": 1,
+                          "k": Array [
+                            Object {
+                              "e": Array [
+                                -16.098,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 0,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -16.098,
+                              ],
+                              "t": 31,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 75.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 81.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 87.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 93.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 98.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 104.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 110.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 116.279,
+                            },
+                            Object {
+                              "t": 120,
+                            },
+                          ],
+                        },
+                        "s": Object {
+                          "a": 0,
+                          "k": Array [
+                            100,
+                            100,
+                            100,
+                          ],
+                        },
+                      },
+                      "nm": "barbatana 3 contornos",
+                      "op": 150,
+                      "parent": 4,
+                      "shapes": Array [
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      12.94,
+                                      6.05,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -20.489,
+                                      -24.2,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      -21.916,
+                                      -27.25,
+                                    ],
+                                    Array [
+                                      -38.084,
+                                      -4.264,
+                                    ],
+                                    Array [
+                                      -6.541,
+                                      27.25,
+                                    ],
+                                    Array [
+                                      38.084,
+                                      9.75,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.764999988032,
+                                  0.470999983245,
+                                  0.795999983245,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  38.333,
+                                  27.5,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 1",
+                          "ty": "gr",
+                        },
+                      ],
+                      "sr": 1,
+                      "st": 0,
+                      "ty": 4,
+                    },
+                    Object {
+                      "ao": 0,
+                      "bm": 0,
+                      "ddd": 0,
+                      "ind": 4,
+                      "ip": 0,
+                      "ks": Object {
+                        "a": Object {
+                          "a": 0,
+                          "k": Array [
+                            41.709,
+                            234.83,
+                            0,
+                          ],
+                        },
+                        "o": Object {
+                          "a": 0,
+                          "k": 100,
+                        },
+                        "p": Object {
+                          "a": 0,
+                          "k": Array [
+                            302.02,
+                            299.009,
+                            0,
+                          ],
+                        },
+                        "r": Object {
+                          "a": 1,
+                          "k": Array [
+                            Object {
+                              "e": Array [
+                                -180,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.291,
+                                ],
+                                "y": Array [
+                                  0.745,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.155,
+                                ],
+                                "y": Array [
+                                  0.332,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 0,
+                            },
+                            Object {
+                              "e": Array [
+                                -359.833,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.882,
+                                ],
+                                "y": Array [
+                                  0.636,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.789,
+                                ],
+                                "y": Array [
+                                  0.197,
+                                ],
+                              },
+                              "s": Array [
+                                -180,
+                              ],
+                              "t": 60,
+                            },
+                            Object {
+                              "t": 119.9775390625,
+                            },
+                          ],
+                        },
+                        "s": Object {
+                          "a": 0,
+                          "k": Array [
+                            100,
+                            100,
+                            100,
+                          ],
+                        },
+                      },
+                      "nm": "corpo",
+                      "op": 150,
+                      "shapes": Array [
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      -8,
+                                      -8,
+                                    ],
+                                    Array [
+                                      8,
+                                      -8,
+                                    ],
+                                    Array [
+                                      8,
+                                      8,
+                                    ],
+                                    Array [
+                                      -8,
+                                      8,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.33300000359,
+                                  0.250999989229,
+                                  0.689999988032,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  178.34,
+                                  80.25,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 1",
+                          "ty": "gr",
+                        },
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -4.63,
+                                      0.17,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      5.6,
+                                      -0.43,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      12.385,
+                                      35.69,
+                                    ],
+                                    Array [
+                                      -3.505,
+                                      37.59,
+                                    ],
+                                    Array [
+                                      -12.385,
+                                      -36.62,
+                                    ],
+                                    Array [
+                                      3.605,
+                                      -37.59,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.298000021542,
+                                  0.226999993418,
+                                  0.638999968884,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  34.235,
+                                  37.94,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 2",
+                          "ty": "gr",
+                        },
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      1.287,
+                                      -2.144,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      2.059,
+                                      -0.514,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0.929,
+                                      2.321,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -1.092,
+                                      1.819,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      -29.268,
+                                      49.366,
+                                    ],
+                                    Array [
+                                      -33.148,
+                                      33.844,
+                                    ],
+                                    Array [
+                                      -4.363,
+                                      26.644,
+                                    ],
+                                    Array [
+                                      15.892,
+                                      -7.108,
+                                    ],
+                                    Array [
+                                      1.363,
+                                      -43.424,
+                                    ],
+                                    Array [
+                                      16.22,
+                                      -49.366,
+                                    ],
+                                    Array [
+                                      32.22,
+                                      -9.366,
+                                    ],
+                                    Array [
+                                      31.652,
+                                      -2.279,
+                                    ],
+                                    Array [
+                                      7.652,
+                                      37.721,
+                                    ],
+                                    Array [
+                                      2.732,
+                                      41.366,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.298000021542,
+                                  0.226999993418,
+                                  0.638999968884,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  113.548,
+                                  86.645,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 3",
+                          "ty": "gr",
+                        },
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      -8.836,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      -8.837,
+                                    ],
+                                    Array [
+                                      8.837,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      8.836,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      8.837,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      8.836,
+                                    ],
+                                    Array [
+                                      -8.836,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      -8.837,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      0,
+                                      -16,
+                                    ],
+                                    Array [
+                                      16,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      16,
+                                    ],
+                                    Array [
+                                      -16,
+                                      0,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.211999990426,
+                                  0.149000010771,
+                                  0.517999985639,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  82.34,
+                                  48.25,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 4",
+                          "ty": "gr",
+                        },
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      13.316,
+                                      16.746,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -4.653,
+                                      -39.552,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      -5.637,
+                                      -47.909,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      23.1,
+                                      29.043,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      10.713,
+                                      51.207,
+                                    ],
+                                    Array [
+                                      -26.603,
+                                      -41.247,
+                                    ],
+                                    Array [
+                                      -14.081,
+                                      -51.207,
+                                    ],
+                                    Array [
+                                      26.603,
+                                      49.337,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.298000021542,
+                                  0.226999993418,
+                                  0.638999968884,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  226.182,
+                                  216.477,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 5",
+                          "ty": "gr",
+                        },
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      32.968,
+                                      -41.096,
+                                    ],
+                                    Array [
+                                      133.69,
+                                      66.849,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -11.1,
+                                      0.86,
+                                    ],
+                                    Array [
+                                      -4.63,
+                                      0.17,
+                                    ],
+                                    Array [
+                                      -1.31,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      -128.131,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      12.03,
+                                      -86.601,
+                                    ],
+                                    Array [
+                                      -16,
+                                      -8,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      5.6,
+                                      -0.431,
+                                    ],
+                                    Array [
+                                      1.67,
+                                      -0.07,
+                                    ],
+                                    Array [
+                                      128.13,
+                                      0,
+                                    ],
+                                    Array [
+                                      0.078,
+                                      52.684,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      86.186,
+                                      188.455,
+                                    ],
+                                    Array [
+                                      -62.994,
+                                      -36.455,
+                                    ],
+                                    Array [
+                                      -118.994,
+                                      -60.455,
+                                    ],
+                                    Array [
+                                      -137.084,
+                                      -185.475,
+                                    ],
+                                    Array [
+                                      -115.484,
+                                      -187.385,
+                                    ],
+                                    Array [
+                                      -99.494,
+                                      -188.355,
+                                    ],
+                                    Array [
+                                      -94.994,
+                                      -188.455,
+                                    ],
+                                    Array [
+                                      137.006,
+                                      43.545,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.372999991623,
+                                  0.294000004787,
+                                  0.736999990426,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  137.334,
+                                  188.705,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 6",
+                          "ty": "gr",
+                        },
+                      ],
+                      "sr": 1,
+                      "st": 0,
+                      "ty": 4,
+                    },
+                    Object {
+                      "ao": 0,
+                      "bm": 0,
+                      "ddd": 0,
+                      "ind": 5,
+                      "ip": 0,
+                      "ks": Object {
+                        "a": Object {
+                          "a": 0,
+                          "k": Array [
+                            132.073,
+                            48.585,
+                            0,
+                          ],
+                        },
+                        "o": Object {
+                          "a": 0,
+                          "k": 100,
+                        },
+                        "p": Object {
+                          "a": 0,
+                          "k": Array [
+                            242.302,
+                            316.915,
+                            0,
+                          ],
+                        },
+                        "r": Object {
+                          "a": 1,
+                          "k": Array [
+                            Object {
+                              "e": Array [
+                                -7,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 0,
+                            },
+                            Object {
+                              "e": Array [
+                                -1,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.61,
+                                ],
+                                "y": Array [
+                                  0.942,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -7,
+                              ],
+                              "t": 20,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.226,
+                                ],
+                                "y": Array [
+                                  0.444,
+                                ],
+                              },
+                              "s": Array [
+                                -1,
+                              ],
+                              "t": 29,
+                            },
+                            Object {
+                              "e": Array [
+                                -7,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 60,
+                            },
+                            Object {
+                              "e": Array [
+                                -1,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -7,
+                              ],
+                              "t": 85,
+                            },
+                            Object {
+                              "e": Array [
+                                -7,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -1,
+                              ],
+                              "t": 91.211,
+                            },
+                            Object {
+                              "e": Array [
+                                -1,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -7,
+                              ],
+                              "t": 96,
+                            },
+                            Object {
+                              "e": Array [
+                                -7,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -1,
+                              ],
+                              "t": 102.211,
+                            },
+                            Object {
+                              "e": Array [
+                                -1,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -7,
+                              ],
+                              "t": 108,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -1,
+                              ],
+                              "t": 114.211,
+                            },
+                            Object {
+                              "t": 120,
+                            },
+                          ],
+                        },
+                        "s": Object {
+                          "a": 0,
+                          "k": Array [
+                            100,
+                            100,
+                            100,
+                          ],
+                        },
+                      },
+                      "nm": "calda contornos",
+                      "op": 150,
+                      "parent": 4,
+                      "shapes": Array [
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -0.133,
+                                      6.307,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -1.315,
+                                      -6.17,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      17.377,
+                                      -6.18,
+                                    ],
+                                    Array [
+                                      -15.464,
+                                      18.9,
+                                    ],
+                                    Array [
+                                      -17.244,
+                                      0.121,
+                                    ],
+                                    Array [
+                                      7.657,
+                                      -18.9,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.642999985639,
+                                  0.356999984442,
+                                  0.677999997606,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  55.593,
+                                  128.459,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 1",
+                          "ty": "gr",
+                        },
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      1.169,
+                                      6.455,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -2.735,
+                                      -5.963,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      23.075,
+                                      -0.205,
+                                    ],
+                                    Array [
+                                      18.184,
+                                      15.025,
+                                    ],
+                                    Array [
+                                      -17.196,
+                                      3.675,
+                                    ],
+                                    Array [
+                                      -23.075,
+                                      -15.025,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.642999985639,
+                                  0.356999984442,
+                                  0.677999997606,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  25.815,
+                                  48.844,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 2",
+                          "ty": "gr",
+                        },
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      1.436,
+                                      -8.48,
+                                    ],
+                                    Array [
+                                      17.42,
+                                      -21.735,
+                                    ],
+                                    Array [
+                                      30.49,
+                                      -15.111,
+                                    ],
+                                    Array [
+                                      1.141,
+                                      5.74,
+                                    ],
+                                    Array [
+                                      -0.133,
+                                      6.307,
+                                    ],
+                                    Array [
+                                      -22.339,
+                                      13.399,
+                                    ],
+                                    Array [
+                                      17.77,
+                                      37.87,
+                                    ],
+                                    Array [
+                                      1.17,
+                                      6.455,
+                                    ],
+                                    Array [
+                                      -0.86,
+                                      11.214,
+                                    ],
+                                    Array [
+                                      -49.662,
+                                      9.943,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      -8.653,
+                                      26.477,
+                                    ],
+                                    Array [
+                                      -21.08,
+                                      26.319,
+                                    ],
+                                    Array [
+                                      -1.339,
+                                      -5.25,
+                                    ],
+                                    Array [
+                                      -1.316,
+                                      -6.17,
+                                    ],
+                                    Array [
+                                      0.59,
+                                      -15.54,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -2.734,
+                                      -5.963,
+                                    ],
+                                    Array [
+                                      -1.943,
+                                      -11.077,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      8.434,
+                                      -1.688,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      67.387,
+                                      -24.594,
+                                    ],
+                                    Array [
+                                      44.218,
+                                      26.745,
+                                    ],
+                                    Array [
+                                      -24.962,
+                                      81.835,
+                                    ],
+                                    Array [
+                                      -28.943,
+                                      65.274,
+                                    ],
+                                    Array [
+                                      -30.723,
+                                      46.495,
+                                    ],
+                                    Array [
+                                      -0.962,
+                                      1.835,
+                                    ],
+                                    Array [
+                                      -60.453,
+                                      -29.566,
+                                    ],
+                                    Array [
+                                      -66.332,
+                                      -48.266,
+                                    ],
+                                    Array [
+                                      -67.962,
+                                      -81.835,
+                                    ],
+                                    Array [
+                                      52.923,
+                                      -38.815,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.698000021542,
+                                  0.404000016755,
+                                  0.728999956916,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  69.072,
+                                  82.085,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 3",
+                          "ty": "gr",
+                        },
+                      ],
+                      "sr": 1,
+                      "st": 0,
+                      "ty": 4,
+                    },
+                    Object {
+                      "ao": 0,
+                      "bm": 0,
+                      "ddd": 0,
+                      "ind": 6,
+                      "ip": 0,
+                      "ks": Object {
+                        "a": Object {
+                          "a": 0,
+                          "k": Array [
+                            6.75,
+                            2.25,
+                            0,
+                          ],
+                        },
+                        "o": Object {
+                          "a": 0,
+                          "k": 100,
+                        },
+                        "p": Object {
+                          "a": 0,
+                          "k": Array [
+                            170.84,
+                            202.25,
+                            0,
+                          ],
+                        },
+                        "r": Object {
+                          "a": 1,
+                          "k": Array [
+                            Object {
+                              "e": Array [
+                                -16.098,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 0,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -16.098,
+                              ],
+                              "t": 31,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 75.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 81.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 87.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 93.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 98.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 104.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -25,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 110.279,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -25,
+                              ],
+                              "t": 116.279,
+                            },
+                            Object {
+                              "t": 120,
+                            },
+                          ],
+                        },
+                        "s": Object {
+                          "a": 0,
+                          "k": Array [
+                            100,
+                            100,
+                            100,
+                          ],
+                        },
+                      },
+                      "nm": "barbatana 4 contornos",
+                      "op": 150,
+                      "parent": 4,
+                      "shapes": Array [
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      -10,
+                                      -31,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      -13,
+                                      -36,
+                                    ],
+                                    Array [
+                                      -9,
+                                      36,
+                                    ],
+                                    Array [
+                                      19,
+                                      4,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.698000021542,
+                                  0.404000016755,
+                                  0.728999956916,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  19.25,
+                                  36.25,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 1",
+                          "ty": "gr",
+                        },
+                      ],
+                      "sr": 1,
+                      "st": 0,
+                      "ty": 4,
+                    },
+                    Object {
+                      "ao": 0,
+                      "bm": 0,
+                      "ddd": 0,
+                      "ind": 7,
+                      "ip": 0,
+                      "ks": Object {
+                        "a": Object {
+                          "a": 0,
+                          "k": Array [
+                            2.25,
+                            0.75,
+                            0,
+                          ],
+                        },
+                        "o": Object {
+                          "a": 0,
+                          "k": 100,
+                        },
+                        "p": Object {
+                          "a": 0,
+                          "k": Array [
+                            140.34,
+                            32.75,
+                            0,
+                          ],
+                        },
+                        "r": Object {
+                          "a": 1,
+                          "k": Array [
+                            Object {
+                              "e": Array [
+                                -16.098,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 0,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -16.098,
+                              ],
+                              "t": 31,
+                            },
+                            Object {
+                              "e": Array [
+                                -21.632,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                0,
+                              ],
+                              "t": 75.279,
+                            },
+                            Object {
+                              "e": Array [
+                                -4.745,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -21.632,
+                              ],
+                              "t": 78.976,
+                            },
+                            Object {
+                              "e": Array [
+                                -21.632,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -4.745,
+                              ],
+                              "t": 84.976,
+                            },
+                            Object {
+                              "e": Array [
+                                -4.745,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -21.632,
+                              ],
+                              "t": 90.976,
+                            },
+                            Object {
+                              "e": Array [
+                                -21.632,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -4.745,
+                              ],
+                              "t": 95.976,
+                            },
+                            Object {
+                              "e": Array [
+                                -4.745,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -21.632,
+                              ],
+                              "t": 101.976,
+                            },
+                            Object {
+                              "e": Array [
+                                -21.632,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -4.745,
+                              ],
+                              "t": 107.976,
+                            },
+                            Object {
+                              "e": Array [
+                                0,
+                              ],
+                              "i": Object {
+                                "x": Array [
+                                  0.667,
+                                ],
+                                "y": Array [
+                                  1,
+                                ],
+                              },
+                              "o": Object {
+                                "x": Array [
+                                  0.333,
+                                ],
+                                "y": Array [
+                                  0,
+                                ],
+                              },
+                              "s": Array [
+                                -21.632,
+                              ],
+                              "t": 113.976,
+                            },
+                            Object {
+                              "t": 120,
+                            },
+                          ],
+                        },
+                        "s": Object {
+                          "a": 0,
+                          "k": Array [
+                            100,
+                            100,
+                            100,
+                          ],
+                        },
+                      },
+                      "nm": "barbatana 2 contornos",
+                      "op": 150,
+                      "parent": 4,
+                      "shapes": Array [
+                        Object {
+                          "bm": 0,
+                          "hd": false,
+                          "it": Array [
+                            Object {
+                              "hd": false,
+                              "ind": 0,
+                              "ks": Object {
+                                "a": 0,
+                                "k": Object {
+                                  "c": true,
+                                  "i": Array [
+                                    Array [
+                                      1.666,
+                                      9,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "o": Array [
+                                    Array [
+                                      -1.667,
+                                      -9,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                    Array [
+                                      20,
+                                      -5,
+                                    ],
+                                    Array [
+                                      0,
+                                      0,
+                                    ],
+                                  ],
+                                  "v": Array [
+                                    Array [
+                                      44.667,
+                                      -4.667,
+                                    ],
+                                    Array [
+                                      43,
+                                      -27,
+                                    ],
+                                    Array [
+                                      -61,
+                                      -27,
+                                    ],
+                                    Array [
+                                      -20,
+                                      5,
+                                    ],
+                                    Array [
+                                      61,
+                                      27,
+                                    ],
+                                  ],
+                                },
+                              },
+                              "nm": "Caminho 1",
+                              "ty": "sh",
+                            },
+                            Object {
+                              "bm": 0,
+                              "c": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0.764999988032,
+                                  0.470999983245,
+                                  0.795999983245,
+                                  1,
+                                ],
+                              },
+                              "hd": false,
+                              "nm": "Preenchimento 1",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "r": 1,
+                              "ty": "fl",
+                            },
+                            Object {
+                              "a": Object {
+                                "a": 0,
+                                "k": Array [
+                                  0,
+                                  0,
+                                ],
+                              },
+                              "nm": "Transformar",
+                              "o": Object {
+                                "a": 0,
+                                "k": 100,
+                              },
+                              "p": Object {
+                                "a": 0,
+                                "k": Array [
+                                  61.25,
+                                  27.25,
+                                ],
+                              },
+                              "r": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "s": Object {
+                                "a": 0,
+                                "k": Array [
+                                  100,
+                                  100,
+                                ],
+                              },
+                              "sa": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "sk": Object {
+                                "a": 0,
+                                "k": 0,
+                              },
+                              "ty": "tr",
+                            },
+                          ],
+                          "nm": "Grupo 1",
+                          "ty": "gr",
+                        },
+                      ],
+                      "sr": 1,
+                      "st": 0,
+                      "ty": 4,
+                    },
+                  ],
+                },
+              ],
+              "ddd": 0,
+              "fr": 30,
+              "h": 600,
+              "ip": 0,
+              "layers": Array [
+                Object {
+                  "ao": 0,
+                  "bm": 0,
+                  "ddd": 0,
+                  "h": 600,
+                  "ind": 1,
+                  "ip": 0,
+                  "ks": Object {
+                    "a": Object {
+                      "a": 0,
+                      "k": Array [
+                        300,
+                        300,
+                        0,
+                      ],
+                    },
+                    "o": Object {
+                      "a": 0,
+                      "k": 100,
+                    },
+                    "p": Object {
+                      "a": 0,
+                      "k": Array [
+                        300,
+                        300,
+                        0,
+                      ],
+                    },
+                    "r": Object {
+                      "a": 0,
+                      "k": 0,
+                    },
+                    "s": Object {
+                      "a": 0,
+                      "k": Array [
+                        100,
+                        100,
+                        100,
+                      ],
+                    },
+                  },
+                  "nm": "peixinho",
+                  "op": 150,
+                  "refId": "comp_0",
+                  "sr": 1,
+                  "st": 0,
+                  "ty": 0,
+                  "w": 600,
+                },
+                Object {
+                  "ao": 0,
+                  "bm": 0,
+                  "ddd": 0,
+                  "h": 600,
+                  "ind": 2,
+                  "ip": 0,
+                  "ks": Object {
+                    "a": Object {
+                      "a": 0,
+                      "k": Array [
+                        300,
+                        300,
+                        0,
+                      ],
+                    },
+                    "o": Object {
+                      "a": 0,
+                      "k": 100,
+                    },
+                    "p": Object {
+                      "a": 0,
+                      "k": Array [
+                        300,
+                        300,
+                        0,
+                      ],
+                    },
+                    "r": Object {
+                      "a": 0,
+                      "k": 180,
+                    },
+                    "s": Object {
+                      "a": 0,
+                      "k": Array [
+                        100,
+                        100,
+                        100,
+                      ],
+                    },
+                  },
+                  "nm": "peixinho",
+                  "op": 150,
+                  "refId": "comp_0",
+                  "sr": 1,
+                  "st": 0,
+                  "ty": 0,
+                  "w": 600,
+                },
+                Object {
+                  "ao": 0,
+                  "bm": 0,
+                  "ddd": 0,
+                  "h": 600,
+                  "ind": 3,
+                  "ip": 0,
+                  "ks": Object {
+                    "a": Object {
+                      "a": 0,
+                      "k": Array [
+                        300,
+                        300,
+                        0,
+                      ],
+                    },
+                    "o": Object {
+                      "a": 0,
+                      "k": 40,
+                    },
+                    "p": Object {
+                      "a": 0,
+                      "k": Array [
+                        300,
+                        300,
+                        0,
+                      ],
+                    },
+                    "r": Object {
+                      "a": 1,
+                      "k": Array [
+                        Object {
+                          "e": Array [
+                            180,
+                          ],
+                          "i": Object {
+                            "x": Array [
+                              0.833,
+                            ],
+                            "y": Array [
+                              0.833,
+                            ],
+                          },
+                          "o": Object {
+                            "x": Array [
+                              0.167,
+                            ],
+                            "y": Array [
+                              0.167,
+                            ],
+                          },
+                          "s": Array [
+                            188,
+                          ],
+                          "t": 0,
+                        },
+                        Object {
+                          "e": Array [
+                            188,
+                          ],
+                          "i": Object {
+                            "x": Array [
+                              0.833,
+                            ],
+                            "y": Array [
+                              0.833,
+                            ],
+                          },
+                          "o": Object {
+                            "x": Array [
+                              0.167,
+                            ],
+                            "y": Array [
+                              0.167,
+                            ],
+                          },
+                          "s": Array [
+                            180,
+                          ],
+                          "t": 60,
+                        },
+                        Object {
+                          "t": 121,
+                        },
+                      ],
+                    },
+                    "s": Object {
+                      "a": 0,
+                      "k": Array [
+                        100,
+                        100,
+                        100,
+                      ],
+                    },
+                  },
+                  "nm": "peixinho",
+                  "op": 150,
+                  "refId": "comp_0",
+                  "sr": 1,
+                  "st": 0,
+                  "ty": 0,
+                  "w": 600,
+                },
+                Object {
+                  "ao": 0,
+                  "bm": 0,
+                  "ddd": 0,
+                  "h": 600,
+                  "ind": 4,
+                  "ip": 0,
+                  "ks": Object {
+                    "a": Object {
+                      "a": 0,
+                      "k": Array [
+                        300,
+                        300,
+                        0,
+                      ],
+                    },
+                    "o": Object {
+                      "a": 0,
+                      "k": 40,
+                    },
+                    "p": Object {
+                      "a": 0,
+                      "k": Array [
+                        300,
+                        300,
+                        0,
+                      ],
+                    },
+                    "r": Object {
+                      "a": 1,
+                      "k": Array [
+                        Object {
+                          "e": Array [
+                            0,
+                          ],
+                          "i": Object {
+                            "x": Array [
+                              0.833,
+                            ],
+                            "y": Array [
+                              0.833,
+                            ],
+                          },
+                          "o": Object {
+                            "x": Array [
+                              0.167,
+                            ],
+                            "y": Array [
+                              0.167,
+                            ],
+                          },
+                          "s": Array [
+                            9,
+                          ],
+                          "t": 0,
+                        },
+                        Object {
+                          "e": Array [
+                            9,
+                          ],
+                          "i": Object {
+                            "x": Array [
+                              0.833,
+                            ],
+                            "y": Array [
+                              0.833,
+                            ],
+                          },
+                          "o": Object {
+                            "x": Array [
+                              0.167,
+                            ],
+                            "y": Array [
+                              0.167,
+                            ],
+                          },
+                          "s": Array [
+                            0,
+                          ],
+                          "t": 60,
+                        },
+                        Object {
+                          "t": 121,
+                        },
+                      ],
+                    },
+                    "s": Object {
+                      "a": 0,
+                      "k": Array [
+                        100,
+                        100,
+                        100,
+                      ],
+                    },
+                  },
+                  "nm": "peixinho",
+                  "op": 150,
+                  "refId": "comp_0",
+                  "sr": 1,
+                  "st": 0,
+                  "ty": 0,
+                  "w": 600,
+                },
+              ],
+              "markers": Array [],
+              "nm": "pisces",
+              "op": 121,
+              "v": "5.6.5",
+              "w": 600,
+            },
+            "autoplay": true,
+            "loop": true,
+            "rendererSettings": Object {
+              "preserveAspectRatio": "xMidYMid slice",
+            },
+          }
+        }
+        speed={1}
+        title=""
+        width={170}
+      />
+      <ForwardRef(styled.h2)>
+        Loading
+      </ForwardRef(styled.h2)>
+    </ForwardRef(styled.div)>
+  </ForwardRef(styled.div)>
+</ForwardRef(styled.div)>
+`;

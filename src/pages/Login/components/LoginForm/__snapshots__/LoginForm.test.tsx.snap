@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginForm should render layout 1`] = `
+<React.Fragment>
+  <Formik
+    initialValues={
+      Object {
+        "email": "",
+        "password": "",
+      }
+    }
+    onSubmit={[Function]}
+    validationSchema={
+      ObjectSchema {
+        "_blacklist": RefSet {
+          "list": Set {},
+          "refs": Map {},
+        },
+        "_conditions": Array [],
+        "_defaultDefault": [Function],
+        "_deps": Array [],
+        "_excludedEdges": Array [],
+        "_exclusive": Object {},
+        "_mutate": undefined,
+        "_nodes": Array [
+          "password",
+          "email",
+        ],
+        "_options": Object {
+          "abortEarly": true,
+          "recursive": true,
+        },
+        "_type": "object",
+        "_typeError": [Function],
+        "_whitelist": RefSet {
+          "list": Set {},
+          "refs": Map {},
+        },
+        "fields": Object {
+          "email": StringSchema {
+            "_blacklist": RefSet {
+              "list": Set {},
+              "refs": Map {},
+            },
+            "_conditions": Array [],
+            "_deps": Array [],
+            "_exclusive": Object {
+              "matches": false,
+              "required": true,
+              "trim": false,
+            },
+            "_mutate": undefined,
+            "_options": Object {
+              "abortEarly": true,
+              "recursive": true,
+            },
+            "_type": "string",
+            "_typeError": [Function],
+            "_whitelist": RefSet {
+              "list": Set {},
+              "refs": Map {},
+            },
+            "tests": Array [
+              [Function],
+              [Function],
+              [Function],
+            ],
+            "transforms": Array [
+              [Function],
+              [Function],
+            ],
+          },
+          "password": StringSchema {
+            "_blacklist": RefSet {
+              "list": Set {},
+              "refs": Map {},
+            },
+            "_conditions": Array [],
+            "_deps": Array [],
+            "_exclusive": Object {
+              "max": true,
+              "min": true,
+              "required": true,
+              "trim": false,
+            },
+            "_mutate": undefined,
+            "_options": Object {
+              "abortEarly": true,
+              "recursive": true,
+            },
+            "_type": "string",
+            "_typeError": [Function],
+            "_whitelist": RefSet {
+              "list": Set {},
+              "refs": Map {},
+            },
+            "tests": Array [
+              [Function],
+              [Function],
+              [Function],
+              [Function],
+            ],
+            "transforms": Array [
+              [Function],
+              [Function],
+            ],
+          },
+        },
+        "tests": Array [],
+        "transforms": Array [
+          [Function],
+        ],
+      }
+    }
+  >
+    [Function]
+  </Formik>
+</React.Fragment>
+`;
