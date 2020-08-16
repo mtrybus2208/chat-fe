@@ -1,4 +1,4 @@
-import { User } from '../../reducers/shared/auth.types';
+import { User } from '../../../reducers/shared/auth.types';
 
 export enum AuthTypes {
   LOGOUT_USER = 'LOGOUT_USER',

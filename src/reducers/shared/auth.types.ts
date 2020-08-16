@@ -1,11 +1,10 @@
-export type UserTypes = "admin" | "base";
+export type UserTypes = 'admin' | 'base';
 
 export interface User {
   id: string;
-  email: string;
   name: string;
-  userType: UserTypes;
-  page?: string;
+  gender: string;
+  age: number;
 }
 
 export interface AuthState {

@@ -20,9 +20,11 @@ const FieldInput: React.FunctionComponent<FieldInputProps> = ({
   touched,
   error,
   validationType,
+  name,
+  type,
   ...props
 }) => {
-  const [field] = useField(props);
+  const [field] = useField({ name, type });
   return (
     <FieldWrapper
       label={label}

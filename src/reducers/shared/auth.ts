@@ -1,4 +1,4 @@
-import { AuthActions, AuthTypes } from '../../actions/shared/auth.types';
+import { AuthActions, AuthTypes } from '../../actions/shared/auth/auth.types';
 import { AuthState } from './auth.types';
 
 const INITIAL_STATE: AuthState = {
