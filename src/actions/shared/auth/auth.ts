@@ -9,7 +9,7 @@ import { AuthActions, AuthTypes } from './auth.types';
 import { showSnackbar } from '../snackbar/snackbar';
 import { SnackbarTypesEnum } from '../../../types/shared/snackbar';
 
-const { REACT_APP_API: API } = process.env;
+const { REACT_APP_COMMENTS_SYSTEM_HOST: API } = process.env;
 
 export const logoutAction = (): AuthActions => {
   return {
