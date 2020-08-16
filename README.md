@@ -1,4 +1,4 @@
-# UI for comment system [react/redux/typescript] [![CircleCI](https://circleci.com/gh/mtrybus2208/fe-comments-system.svg?style=svg)](https://circleci.com/gh/mtrybus2208/fe-comments-system)
+# UI for chat application [react/redux/typescript]
 
 ## Table of contents
 
@@ -9,9 +9,9 @@
 
 ## General info
 
-Comment system with role based authentication [react/redux/typescript]
+Chat application [react/redux/typescript]
 
-- Backend repository available [here](https://github.com/mtrybus2208/comment-system-node-express)
+- Backend repository available [here](https://github.com/mtrybus2208/chat)
 
 ## Technologies
 
