@@ -25,6 +25,7 @@ const FieldInput: React.FunctionComponent<FieldInputProps> = ({
   ...props
 }) => {
   const [field] = useField({ name, type });
+
   return (
     <FieldWrapper
       label={label}

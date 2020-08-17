@@ -9,6 +9,7 @@ import FieldSelect from '../../../../shared/components/Fields/FieldSelect/FieldS
 import { InputValidationTypes } from '../../../../types/shared/forms.types';
 import FieldSubmit from '../../../../shared/components/Fields/FieldSubmit/FieldSubmit';
 import Preloader from '../../../../shared/components/Preloader/Preloader';
+import { registerValidationSchema } from '../../../../shared/helpers/validations/register/registerValidation';
 
 export interface RegisterFormProps {
   onSubmit: (
@@ -26,14 +27,13 @@ const RegisterForm: React.FunctionComponent<RegisterFormProps> = ({
     values: RegisterFormValues,
     actions: FormikHelpers<RegisterFormValues>,
   ): void => {
-    console.log({ values });
     actions.setSubmitting(false);
     onSubmit(values, actions);
   };
 
   const initialValues: RegisterFormValues = {
     userName: null,
-    gender: null,
+    gender: UserGender.MALE,
     age: null,
   };
 
@@ -44,7 +44,11 @@ const RegisterForm: React.FunctionComponent<RegisterFormProps> = ({
 
   return (
     <>
-      <Formik initialValues={initialValues} onSubmit={handleSubmit}>
+      <Formik
+        initialValues={initialValues}
+        onSubmit={handleSubmit}
+        validationSchema={registerValidationSchema}
+      >
         {(props: FormikProps<RegisterFormValues>) => (
           <FormWrapper name="Register">
             <Form>
@@ -59,7 +63,6 @@ const RegisterForm: React.FunctionComponent<RegisterFormProps> = ({
               <Field
                 component={FieldSelect}
                 options={options}
-                defaultValue={options[0]}
                 label="Your gender"
                 type="select"
                 name="gender"
